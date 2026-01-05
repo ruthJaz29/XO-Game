@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+.orbitron{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: azure;
+}
+h1{
+    text-align: center;
+}
+#hd{
+    margin-top: 4.5rem;
+}
+.names{
+    display: flex;
+    border: 0.2rem solid #ffffff;
+    height: 10rem;
+    width: 50rem;
+    margin-left: 22rem;
+    color: aqua;
+    margin-top: 5rem; 
+     align-items: flex-start;
+    justify-content: center;
+}
+
+.names div{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    font-size: 1.5rem;
+}
+#one{
+    margin-right: 5.5rem;
+}
+#two{
+    margin-left: 5.5rem;
+}
